@@ -1,2 +1,2 @@
 print("java")
-dsa
+print("bulbol")
